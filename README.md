@@ -32,8 +32,14 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"> 
 <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
-</p>  
-  
+</p> 
+<p>
+  <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/flask-000000?style=flat-square&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
+</p>
+<p>  
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
 </p>
 <p align="center">
