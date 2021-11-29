@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 
-<div align=center><h1>📚 STACKS</h1></div>
+<div align=center><h1>📚 Tech Stacks</h1></div>
 <div align = center>
   <p>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>
