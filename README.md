@@ -51,14 +51,13 @@ Here are some ideas to get you started:
   <p>
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"> 
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white">
-<p>
+   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logogit&logoColor=white">
+  <p>
     <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black"> 
     <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"> 
     <img src="https://img.shields.io/badge/angular.js-DD0031?style=flat-square&logo=angularjs&logoColor=white">
     <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
   </p>
-  <p>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a> &nbsp 
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
-  </p>
+  
 </div>
