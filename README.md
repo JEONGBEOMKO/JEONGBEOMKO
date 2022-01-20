@@ -51,8 +51,8 @@ Here are some ideas to get you started:
   <p>
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"> 
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white">
-   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
-    <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logogit&logoColor=white">
+  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <p>
     <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black"> 
     <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"> 
