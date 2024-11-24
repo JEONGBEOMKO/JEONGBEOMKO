@@ -1,65 +1,41 @@
-
-
-<!--
-**JEONGBEOMKO/JEONGBEOMKO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--->
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JEONGBEOMKO%20GitHub✨&fontSize=70)
 
+<h2> 🌏 About Me </h2>
+  ✨ JeongBeom Ko <br> 
+  🇰🇷 Seoul, Republic of Korea <br>
+<br>
 
-
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JEONGBEOMKO&show_icons=true&theme=radical)
-
-
-
-<div align=center><h1>📚 Tech Stack</h1></div>
-<div align = center>
+<!--
+<div>
+  <a href="https://www.linkedin.com/in/daeyoug-heo-336294265/"><img style="width:auto; height:28px;" src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn&logoColor=white&link="https://www.linkedin.com/in/jeongbeom-ko-46ab87335/"></a>
+</div>
+-->
+<h2>📚 Tech Stack</h2>
+  
+  <div>
+    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring%20Security-6DB33F.svg?&style=for-the-badge&logo=Spring%20Security&logoColor=white">   
+    <img src="https://img.shields.io/badge/JPA-FF3621.svg?&style=for-the-badge&logo=Databricks&logoColor=white">
+    <img src="https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">    
+    <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">   
+    <img src="https://img.shields.io/badge/mybatis-000000?style=for-the-badge&logo=mybatis / ibatis&logoColor=white">
+    <br>
+    <br>
+    <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/mariddb-4479A1?style=for-the-badge&logo=mariadb&logoColor=white">
+    <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+    <br>
+    <br>
+    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
+    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+    
+  </div>
   
   <!--
-  <p>
-   <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"> 
-   <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"> 
-   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
-  </p>
-  <p>
-   <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"> 
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> 
-  <img src="https://img.shields.io/badge/mariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white"> 
-  <img src="https://img.shields.io/badge/mongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white">
-  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
-  </p>
-  -->
-   
-  <!--<p>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> 
-    <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white">
-  </p>-->
-
-  <!--<p>
-  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"> 
-  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white">
-  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
-  </p>-->
-
-  <!--<p>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>
-    <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black"> 
-    <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white">
-    <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
-    <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
-    <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
-  </p>--> 
-  
   [![My Skills](https://skillicons.dev/icons?i=java,js,spring&perline=3)](https://skillicons.dev)
   
   <p align="center">
@@ -73,5 +49,20 @@ Here are some ideas to get you started:
       <img src="https://skillicons.dev/icons?i=git,grafana,docker" />
     </a>
   </p>
-  
+ -->
+
+<br>
+
+
+## 📊 GitHub Stats 
+
+
+<div align=center>
+  <!-- ![JeongBeom's GitHub stats](https://github-readme-stats.vercel.app/api?username=JEONGBEOMKO&show_icons=true&theme=radical)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEONGBEOMKO&layout=compact&hide=css,scss,html,c%23,TeX,PHP,Pascal%&theme=dracula&langs_count=8"/>
+-->
+  <img style="height:170px;" src="https://github-readme-stats.vercel.app/api?username=JEONGBEOMKO&show_icons=true&theme=dark"/ alt="Github Stats">
+  <img style="height:170px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEONGBEOMKO&layout=compact&hide=css,scss,html,c%23,TeX,PHP,Pascal&theme=dark" alt="Top Langs">
 </div>
+
+
